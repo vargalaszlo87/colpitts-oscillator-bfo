@@ -22,3 +22,7 @@ Only a few electronic components provide frequency tuning.
 - L1 & L2 (or one L, or and LC tank)
 - D1 and D2 varicap diodes
 
+# On a Breadboard
+
+<img width="1618" height="636" alt="image" src="https://github.com/user-attachments/assets/393bd73c-1a3b-42a3-8b92-a48461dbfee0" />
+
