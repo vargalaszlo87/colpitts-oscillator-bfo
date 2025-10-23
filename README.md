@@ -1,5 +1,24 @@
 # colpitts-oscillator-bfo
 
-This repository demonstrates using a Colpitts oscillator as a BFO. 
+This repository demonstrates using a Colpitts oscillator as a BFO. It's a simple project, but you can easily use it in your project. Have a fun!
 
-Don't use it. Under design.
+# The circuit
+
+<img width="1072" height="481" alt="image" src="https://github.com/user-attachments/assets/0103975c-d090-47f2-994c-f8c417144159" />
+
+# Short description.
+
+My oscillator circuit has two main parts. The first part is a Colpitts-oscillator with varicap diodes for frequency adjusting. The second stage is a simple common-emitter amplifier that provides gain reserve and signal decoupling.
+
+This circuit can tune the frequency up and down by **5kHz**. 
+
+**Important!** *If your radio uses a different IF frequency, you can adjust the frequency with the LC tank.*
+
+## Tuning section
+
+Only a few electronic components provide frequency tuning.
+
+- C2 and C3
+- L1 & L2 (or one L, or and LC tank)
+- D1 and D2 varicap diodes
+
