@@ -6,6 +6,16 @@ This repository demonstrates using a Colpitts oscillator as a BFO. It's a simple
 
 <img width="1072" height="481" alt="image" src="https://github.com/user-attachments/assets/0103975c-d090-47f2-994c-f8c417144159" />
 
+## The video of operation
+
+https://youtu.be/7EGG7MSddCE
+
+[![Watch the video](https://img.youtube.com/vi/7EGG7MSddCE/0.jpg)](https://www.youtube.com/watch?v=7EGG7MSddCE)
+
+https://youtu.be/8S6Ol7hsZTs
+
+[![Watch the video](https://img.youtube.com/vi/8S6Ol7hsZTs/0.jpg)](https://www.youtube.com/watch?v=8S6Ol7hsZTs)
+
 # Short description.
 
 My oscillator circuit has two main parts. The first part is a Colpitts-oscillator with varicap diodes for frequency adjusting. The second stage is a simple common-emitter amplifier that provides gain reserve and signal decoupling.
